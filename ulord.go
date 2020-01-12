@@ -7,9 +7,9 @@ import (
         "runtime"
 	"sync"
 
-	"github.com/ulordsuite/ulord/ulordec"
-	"github.com/ulordsuite/ulord/chaincfg"
-	"github.com/ulordsuite/ulordutil"
+	"github.com/free-gate/ulord/ulordec"
+	"github.com/free-gate/ulord/chaincfg"
+	"github.com/free-gate/ulordutil"
 	log "github.com/sirupsen/logrus"
 )
 
